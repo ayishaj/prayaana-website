@@ -8,6 +8,9 @@ header {
 	height: 100px;
 	align-self: left;
 }
+.container{
+	margin-left: 100px;
+}
 
 .navbar, 
 .navbar-inner, 
@@ -31,8 +34,8 @@ header {
 	color: #666;
 	border-top:4px solid #fff;
 	text-shadow: none;
-	font-size: 16px;
-	padding: 20px;
+	font-size: 20px;
+	padding: 18px;
 
 }
 
