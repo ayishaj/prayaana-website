@@ -70,3 +70,15 @@ body{
     box-shadow: 2px 2px 4px #000000; 
   	color: #000;
 }
+
+.fa{
+	color: #2AABB4;
+}
+
+#contact {
+	background-color: #404040;
+	color: #fff;
+	text-decoration: none;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
