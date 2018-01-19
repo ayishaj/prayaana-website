@@ -25,6 +25,10 @@ body{
 
 }
 
+.dropdown span{
+	font-size: 18px;
+}
+
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
 	border-top:4px solid #2AABB4;
@@ -57,8 +61,11 @@ body{
     z-index: 5;
 }
 
+.carousel-caption{
+	vertical-align: middle;
+}
+
 #banner{
-	margin-bottom: 30px;
 	border-bottom: 4px solid #2AABB4;
 }
 
