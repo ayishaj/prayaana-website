@@ -4,8 +4,7 @@ body{
 	font-family: 'Montserrat';
 }
 
-.navbar, 
-.navbar-inner, 
+.navbar,  
 .nav {
 	float: right;
 	background: #fff !important;
@@ -15,11 +14,6 @@ body{
           box-shadow: none;
 	padding: 0px;
 	margin: 0;	
-}
-
-.navbar-inner {
-	padding-left: 0px !important;
-	padding-right: 0px !important;
 }
 
 .navbar .nav > li > a {
@@ -95,4 +89,11 @@ body{
 #name{
 	text-align: center;
 	font-size: 18px;
+}
+
+#partners{
+	width: 100px;
+	height: auto;
+	text-align: center;
+	margin: 20px 10px 25px 10px;
 }
