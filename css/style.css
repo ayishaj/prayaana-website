@@ -82,3 +82,17 @@ body{
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+
+#profile{
+	height: 175px;
+	width: auto;
+	text-align: center;
+	margin: 15px 10px 25px 10px;
+	border-top: 4px solid #2AABB4;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+#name{
+	text-align: center;
+	font-size: 18px;
+}
