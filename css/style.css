@@ -104,11 +104,11 @@ body{
 }
 
 #profile{
-	height: 60%;
-	width: 60%;
-	text-align: center;
-	margin: 15px 10px 25px 10px;
-	border-top: 4px solid #2AABB4;
+	height: 65%;
+	width: 65%;
+	margin: 10% 5% 7% 5%;
+	border: 2px solid #2AABB4;
+	border-radius: 50%;
     box-shadow: 2px 2px 4px #000000;
 }
 
